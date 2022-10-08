@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "d:\\Projects\\Minecraft\\1.18.1\\mods\\testgenVSCodeRunstest",
+			"script": "genVSCodeRuns",
+			"description": "",
+			"group": "forgegradle runs",
+			"project": "test",
+			"buildFile": "D:\\Projects\\Minecraft\\1.18.1\\mods\\test\\build.gradle",
+			"rootProject": "test",
+			"projectFolder": "d:\\Projects\\Minecraft\\1.18.1\\mods\\test",
+			"workspaceFolder": "d:\\Projects\\Minecraft\\1.18.1\\mods\\test",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: genVSCodeRuns"
+		}
+	]
+}
