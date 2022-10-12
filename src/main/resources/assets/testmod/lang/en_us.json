@@ -1,4 +1,6 @@
 {
     "item.testmod.cobalt_ingot": "Cobalt Ingot",
-    "item.testmod.cobalt_nugget": "Cobalt nugget"
+    "item.testmod.cobalt_nugget": "Cobalt Nugget",
+    "block.testmod.cobalt_block": "Cobalt Block",
+    "block.testmod.cobalt_ore": "Cobalt Ore"
 }

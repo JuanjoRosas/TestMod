@@ -1,4 +1,6 @@
 {
     "item.testmod.cobalt_ingot": "Lingote de cobalto",
-    "item.testmod.cobalt_nugget": "Pepita de cobalto"
+    "item.testmod.cobalt_nugget": "Pepita de cobalto",
+    "block.testmod.cobalt_block": "Bloque de cobalto",
+    "block.testmod.cobalt_ore": "Mena de cobalto"
 }
