@@ -2,5 +2,8 @@
     "item.testmod.cobalt_ingot": "Lingote de cobalto",
     "item.testmod.cobalt_nugget": "Pepita de cobalto",
     "block.testmod.cobalt_block": "Bloque de cobalto",
-    "block.testmod.cobalt_ore": "Mena de cobalto"
+    "block.testmod.cobalt_ore": "Mena de cobalto",
+    "item.testmod.raw_cobalt": "Cobalto crudo",
+    "block.testmod.deepslate_cobalt_ore": "Mena de cobalto de roca profunda",
+    "block.testmod.raw_cobalt_block": "Bloque de cobalto crudo"
 }
