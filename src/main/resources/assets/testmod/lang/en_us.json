@@ -1,9 +1,12 @@
 {
     "item.testmod.cobalt_ingot": "Cobalt Ingot",
     "item.testmod.cobalt_nugget": "Cobalt Nugget",
+    "item.testmod.raw_cobalt": "Raw Cobalt",
+
     "block.testmod.cobalt_block": "Cobalt Block",
     "block.testmod.cobalt_ore": "Cobalt Ore",
-    "item.testmod.raw_cobalt": "Raw Cobalt",
     "block.testmod.deepslate_cobalt_ore": "Deepsalte Cobalt Ore",
-    "block.testmod.raw_cobalt_block": "Raw Cobalt Block"
+    "block.testmod.raw_cobalt_block": "Raw Cobalt Block",
+    
+    "itemGroup.testmodtab": "Test Mod"
 }

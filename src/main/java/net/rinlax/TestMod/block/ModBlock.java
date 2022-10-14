@@ -13,6 +13,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.rinlax.TestMod.TestMod;
+import net.rinlax.TestMod.item.ModCreativeModeTab;
 import net.rinlax.TestMod.item.ModItems;
 
 public class ModBlock {
@@ -20,19 +21,19 @@ public class ModBlock {
 
     public static final RegistryObject<Block> COBALT_BLOCK = registerBlock("cobalt_block", 
         () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(5f).requiresCorrectToolForDrops()),
-        CreativeModeTab.TAB_MISC);
+        ModCreativeModeTab.TEST_MOD_TAB);
 
     public static final RegistryObject<Block> COBALT_ORE = registerBlock("cobalt_ore", 
         () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(4f).requiresCorrectToolForDrops()),
-        CreativeModeTab.TAB_MISC);
+        ModCreativeModeTab.TEST_MOD_TAB);
 
     public static final RegistryObject<Block> DEEPSLATE_COBALT_ORE = registerBlock("deepslate_cobalt_ore", 
         () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),
-        CreativeModeTab.TAB_MISC);
+        ModCreativeModeTab.TEST_MOD_TAB);
 
     public static final RegistryObject<Block> RAW_COBALT_BLOCK = registerBlock("raw_cobalt_block", 
         () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(4f).requiresCorrectToolForDrops()),
-        CreativeModeTab.TAB_MISC);
+        ModCreativeModeTab.TEST_MOD_TAB);
 
     //Methods
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block, CreativeModeTab tab){
